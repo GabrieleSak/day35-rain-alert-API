@@ -23,3 +23,4 @@ for item in weather_conditions:
     if item < 700:
         print("Bring an Umbrella")
         break
+
